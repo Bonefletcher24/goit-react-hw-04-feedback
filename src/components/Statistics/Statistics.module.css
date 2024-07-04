@@ -1,0 +1,19 @@
+/* src/components/Statistics.module.css */
+.statistics {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    color: blue;
+    font-weight: bold;
+  }
+  
+  .statistics p {
+    margin: 5px 0;
+    font-size: 18px;
+  }
+
+  .label {
+    margin-bottom: 10px;
+  }
+  
